@@ -5,25 +5,25 @@ Apresentamos a funcionalidade de autorização no sistema SSW, uma automação m
 
 **Recursos Destacados:**
 
-*1. **Rastreamento Preciso:**
+1. **Rastreamento Preciso:**
    - A autorização na tela 101 permite um rastreamento preciso, fornecendo informações detalhadas sobre a entrega em questão.
    - Uma abordagem automatizada que economiza tempo e garante eficiência operacional.
 
-*2. **Comprovantes de Entrega:**
+2. **Comprovantes de Entrega:**
    - Obtenha acesso imediato aos comprovantes de entrega, fornecendo transparência e confiabilidade nas operações.
    - Visualização facilitada para verificação instantânea da conclusão bem-sucedida da entrega.
 
-*3. **Detalhes Exclusivos de Ocorrências:**
+3. **Detalhes Exclusivos de Ocorrências:**
    - Além dos comprovantes, a autorização na tela 101 oferece detalhes específicos de ocorrências associadas à entrega.
    - Uma visão abrangente que permite análise e resolução proativa de quaisquer desafios ou problemas.
 
 **Vantagens Operacionais:**
 
-*4. **Eficiência Operacional Aprimorada:**
+4. **Eficiência Operacional Aprimorada:**
    - Reduza significativamente o tempo gasto na obtenção de informações, otimizando processos operacionais.
    - Tomada de decisões mais informada e rápida para melhorar a eficiência geral.
 
-*5. **Integração Perfeita com o Sistema SSW:**
+5. **Integração Perfeita com o Sistema SSW:**
    - A funcionalidade de autorização se integra de maneira fluida ao ecossistema SSW, proporcionando uma experiência de usuário contínua.
    - Atualizações em tempo real para manter a precisão das informações.
 
